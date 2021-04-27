@@ -43,6 +43,10 @@ if(!isset($_SESSION['email'])){
 	<a href="logout.php"><button type="button" class="logoutbtn"> WRITE HERE</button></a>
 	</div>
 	</div>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
 	
 	<div class="container">
 	
