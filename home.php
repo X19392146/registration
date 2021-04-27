@@ -37,15 +37,15 @@ if(!isset($_SESSION['email'])){
 	
 	<h2>Welcome <?php echo $_SESSION['email']; ?></h2>
 	
-	<div class="container">
+	
 	
 	<div class="center">
 	<a href="logout.php"><button type="button" class="logoutbtn"> WRITE HERE</button></a>
 	</div>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+	
+	
+	<div class="container">
+	
 	<div class="center">
 	<a href="logout.php"><button type="button" class="logoutbtn"> LOG OUT</button></a>
 	</div>
