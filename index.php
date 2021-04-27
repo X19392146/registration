@@ -76,6 +76,13 @@
 </div>
 </div>
 
+<div class="footer">
+  <p>Follow us on <a  href="https://www.instagram.com/ssblogs2/">Instagram</a> and <a  href="https://twitter.com/siobhan_saoirse">Twitter</a></p>
+  <p> All Rights Reserved By S&S Blogs</p> <p>&nbsp; © 2021 S&S Blogs&nbsp;</p>
+
+</div>
+
+
 
 </body>
 </html>
