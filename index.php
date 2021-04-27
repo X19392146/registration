@@ -11,7 +11,7 @@
 		<li><a href="../pages/about.html">&nbsp; About Us &nbsp; </a></li>
 		<li><a href="../pages/topics.html">&nbsp; Topics &nbsp;</a></li>
 		<li style="float:right"><a class="active" href="../pages/contact.html">Contact Us</a></li>
-		<li style="float:right"><a class="active" href="login.php">Sign Up/Login</a></li>
+		<li style="float:right"><a class="active" href="index.php">Sign Up/Login</a></li>
 		<!--Page Heading-->
 		<h1> 
 		<?php 
