@@ -42,7 +42,10 @@ if(!isset($_SESSION['email'])){
 	<div class="center">
 	<a href="logout.php"><button type="button" class="logoutbtn"> WRITE HERE</button></a>
 	</div>
-	
+	<br/>
+	<br/>
+	<br/>
+	<br/>
 	<div class="center">
 	<a href="logout.php"><button type="button" class="logoutbtn"> LOG OUT</button></a>
 	</div>
