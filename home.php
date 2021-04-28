@@ -16,14 +16,14 @@ if(!isset($_SESSION['email'])){
 
 <!--Navigation Bar - linking other pages to index page-->
 <ul>
-		<li><a href="../pages/about.html">&nbsp; About Us &nbsp; </a></li>
-		<li><a href="../pages/topics.html">&nbsp; Topics &nbsp;</a></li>
-		<li style="float:right"><a class="active" href="../pages/contact.html">Contact Us</a></li>
+		<li><a href="http://blogss.gearhostpreview.com/pages/about.html">&nbsp; About Us &nbsp; </a></li>
+		<li><a href="http://blogss.gearhostpreview.com/pages/topics.html">&nbsp; Topics &nbsp;</a></li>
+		<li style="float:right"><a class="active" href="http://blogss.gearhostpreview.com/pages/contact.html">Contact Us</a></li>
 		<li style="float:right"><a class="active" href="../index.php">Sign Up/Login</a></li>
 		<!--Page Heading-->
 		<h1> 
 		<?php 
-		echo '<a  href="../index.html"> <img src="S&S Blogs Logo.jpg" alt="Home" width="150" height="150"/></a>';
+		echo '<a  href="http://blogss.gearhostpreview.com/index.html"> <img src="S&S Blogs Logo.jpg" alt="Home" width="150" height="150"/></a>';
 		?>
 		</h1>
 </ul>
