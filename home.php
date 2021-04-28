@@ -40,7 +40,7 @@ if(!isset($_SESSION['email'])){
 	
 	<div class="container">
 	<div class="center">
-	<a href="logout.php"><button type="button" class="logoutbtn"> WRITE HERE</button></a>
+	<a href="https://writingpage.herokuapp.com/index.php"><button type="button" class="logoutbtn"> WRITE HERE</button></a>
 	</div>
 	</div>
 	<br/>
